@@ -1,0 +1,18 @@
+{
+  "name": "example_npm",
+  "version": "1.0.0",
+  "description": "A test to see how npm works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "program": "node index.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Rohit Moza",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
